@@ -73,11 +73,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
+
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'viaduct.proxy.rlwy.net',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'luCXMyJQVFRuxinSEejURBKLrHoRAKEx',
 	'database' => 'cobawisata',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
